@@ -1,0 +1,27 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "standard"
+  ],
+  "plugins": [
+    "@typescript-eslint", "react-hooks", "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": "error",
+    "react/react-in-jsx-scope": "off",
+    "no-unused-vars": "off",
+    "no-use-before-define": "off",
+    "comma-dangle": ["error", "always-multiline"],
+    "space-before-function-paren": "off",
+    "space-before-paren": "off",
+    "@typescript-eslint/no-unused-vars": 2,
+    "import/export": 0
+  }
+}
