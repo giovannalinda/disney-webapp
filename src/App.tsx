@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 import { Home } from 'pages'
 import { HOME } from 'routes'
+import { GlobalStyle } from 'ui'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Routes>
         <Route path={HOME} element={<Home />} />
       </Routes>
+      <GlobalStyle />
     </BrowserRouter>
   )
 }
