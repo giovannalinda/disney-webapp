@@ -1,4 +1,7 @@
 export const theme = {
+  grid: {
+    header: '80px',
+  },
   colors: {
     black: '#000000',
     white: '#FFFFFF',

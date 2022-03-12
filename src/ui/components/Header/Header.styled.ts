@@ -2,11 +2,15 @@ import styled from 'styled-components'
 import { theme } from 'config'
 
 export const Header = styled.header`
+  position: fixed;
+  height: ${theme.grid.header};
+  z-index: 1;
+  left: 0;
+  right: 0;
+  top: 0;
+
   nav {
-    position: fixed;
-    width: 100%;
     background: ${theme.colors.gray[700]};
-    z-index: 1;
     box-shadow: 0 0.1px 0.5px ${theme.colors.gray[700]};
   }
 
