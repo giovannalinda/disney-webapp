@@ -1,13 +1,14 @@
 ## What is inside?
 
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
+- [ReactJS](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Styled Components](https://styled-components.com)
 - [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [Swiper](https://swiperjs.com)
 
 ## Getting Started
 ### Install dependencies:
