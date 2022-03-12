@@ -1,3 +1,9 @@
+import { Header } from 'ui/components/Header'
+
 export function Home() {
-  return <h1>Hello</h1>
+  return (
+    <>
+      <Header />
+    </>
+  )
 }
