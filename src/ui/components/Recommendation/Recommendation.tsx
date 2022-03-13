@@ -15,7 +15,7 @@ export function Recommendation() {
       <Swiper
         slidesPerView={1.5}
         spaceBetween={80}
-        slidesPerGroup={3}
+        slidesPerGroup={1}
         loop={true}
         pagination={{
           clickable: true,

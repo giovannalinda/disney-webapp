@@ -3,7 +3,6 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
   margin-top: ${theme.grid.header};
-  object-fit: cover;
 
   img {
     height: 350px;
