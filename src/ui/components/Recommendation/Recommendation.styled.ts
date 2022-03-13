@@ -7,15 +7,14 @@ export const Container = styled.div`
 
   img {
     height: 350px;
-    width: 860px;
+    width: 1000px;
     border-radius: 5px;
-    margin: 30px 0 0 30px;
+    margin: 30px 30px 0 200px;
     transition: 0.5s;
 
     @media (max-width: 920px) {
-      width: 310px;
+      width: 350px;
       height: 200px;
-      margin: 30px 40px 0 30px;
     }
 
     :hover {
