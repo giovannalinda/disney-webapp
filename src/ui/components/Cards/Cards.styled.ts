@@ -33,6 +33,7 @@ export const Content = styled.div`
   @media (max-width: 920px) {
     width: 80px;
     height: 60px;
+    margin: 30px 0 0 15px;
   }
 
   &:hover {
