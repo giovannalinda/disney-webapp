@@ -4,7 +4,7 @@ import { theme } from 'config'
 export const Header = styled.header`
   position: fixed;
   height: ${theme.grid.header};
-  z-index: 1;
+  z-index: 2;
   left: 0;
   right: 0;
   top: 0;

@@ -12,8 +12,13 @@ export const Container = styled.div`
     transition: 0.5s;
 
     @media (max-width: 920px) {
-      width: 350px;
+      width: 380px;
       height: 200px;
+      margin: 30px 0 0 60px;
+    }
+
+    &:active {
+      transform: translateY(-5px) scale(0.98);
     }
 
     :hover {
