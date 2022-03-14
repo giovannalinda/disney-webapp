@@ -37,6 +37,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+### Run fake API
+
+```bash
+yarn json-server --watch --port 3333 server.json
+```
+
 ## Commands
 
 - `dev`: run development server
