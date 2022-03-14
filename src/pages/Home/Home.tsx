@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import api from 'services/api'
 import { Category } from 'types'
+import { Banner } from 'ui/components/Banner'
 import { Cards } from 'ui/components/Cards'
 import { Footer } from 'ui/components/Footer'
 import { Header } from 'ui/components/Header'
@@ -49,6 +50,7 @@ export function Home() {
             </S.CategoryItem>
           ))}
         </S.CategoriesList>
+        <Banner />
       </S.Container>
       <Footer />
     </>

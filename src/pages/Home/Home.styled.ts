@@ -27,7 +27,7 @@ export const CategoryItem = styled.li`
   h3 {
     color: ${theme.colors.white};
     margin-left: 4rem;
-    padding-bottom: 1rem;
+    margin-top: 10px;
   }
 `
 export const MoviesList = styled.ul`
@@ -45,7 +45,7 @@ export const MoviesList = styled.ul`
 
 export const MovieItem = styled.li`
   & + li {
-    margin-left: 1.6rem;
+    margin-left: 10px;
   }
 
   button {
@@ -55,8 +55,8 @@ export const MovieItem = styled.li`
     transition: 0.5s;
 
     img {
-      width: 238px;
-      height: 134px;
+      width: 243px;
+      height: 137px;
       object-fit: cover;
       border-radius: 4px;
     }

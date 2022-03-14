@@ -5,7 +5,7 @@ import 'swiper/css/pagination'
 import 'swiper/css/navigation'
 
 import { Pagination, Navigation } from 'swiper'
-import { cruella, dug, red, ron } from 'assets'
+import { cruella, dug, raya, red, ron } from 'assets'
 
 import * as S from './Recommendation.styled'
 
@@ -33,6 +33,9 @@ export function Recommendation() {
         </SwiperSlide>
         <SwiperSlide>
           <img src={cruella} alt='cruella' />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={raya} alt='raya e o último dragão' />
         </SwiperSlide>
       </Swiper>
     </S.Container>
