@@ -17,7 +17,7 @@ export function Cards() {
         <img src={starWars} alt='star wars logo' />
       </S.Content>
       <S.Content>
-        <img src={nationalGeographic} alt='' />
+        <img src={nationalGeographic} alt='national geographic logo' />
       </S.Content>
     </S.Container>
   )

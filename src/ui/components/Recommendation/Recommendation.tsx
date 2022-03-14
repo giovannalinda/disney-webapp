@@ -20,7 +20,6 @@ export function Recommendation() {
         pagination={{
           clickable: true,
         }}
-        navigation={true}
         modules={[Pagination, Navigation]}
       >
         <SwiperSlide>
