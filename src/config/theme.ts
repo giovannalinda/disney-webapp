@@ -6,6 +6,7 @@ export const theme = {
     black: '#000000',
     white: '#FFFFFF',
     neutral: {
+      50: '#f2f2f2',
       100: '#F9F9F9',
     },
     gray: {

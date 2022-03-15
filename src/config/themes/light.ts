@@ -1,5 +1,7 @@
+import { theme } from 'config/theme'
+
 export default {
-  backgroundColor: '#f2f2f2',
-  textColor: '#090B13',
-  headerBackgroundColor: '#F9F9F9',
+  backgroundColor: `${theme.colors.neutral[50]}`,
+  textColor: `${theme.colors.gray[700]}`,
+  headerBackgroundColor: `${theme.colors.neutral[100]}`,
 }
