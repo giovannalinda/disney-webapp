@@ -1,11 +1,15 @@
 import { useEffect, useState } from 'react'
-import api from 'services/api'
-import { Category } from 'types'
+
 import { Banner } from 'ui/components/Banner'
 import { Cards } from 'ui/components/Cards'
 import { Footer } from 'ui/components/Footer'
 import { Header } from 'ui/components/Header'
 import { Recommendation } from 'ui/components/Recommendation'
+import { MoviesList } from 'ui/components/MoviesList'
+
+import { Category } from 'types'
+
+import api from 'services/api'
 
 import * as S from './Home.styled'
 
@@ -19,7 +23,7 @@ export function Home() {
         setCategories(
           response.data.map((category) => ({
             title: category.title,
-            movies: category.movies.slice(0, 7),
+            movies: category.movies,
           })),
         )
       })
@@ -36,18 +40,11 @@ export function Home() {
       <S.Container>
         <S.CategoriesList>
           {categories.map((category) => (
-            <S.CategoryItem key={category.title}>
-              <h3>{category.title}</h3>
-              <S.MoviesList>
-                {category.movies.map((movie) => (
-                  <S.MovieItem key={movie.title}>
-                    <button>
-                      <img src={movie.thumbnail} alt={movie.title} />
-                    </button>
-                  </S.MovieItem>
-                ))}
-              </S.MoviesList>
-            </S.CategoryItem>
+            <MoviesList
+              key={category.title}
+              title={category.title}
+              movies={category.movies}
+            />
           ))}
         </S.CategoriesList>
         <Banner />

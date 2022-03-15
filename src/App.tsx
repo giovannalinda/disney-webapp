@@ -4,6 +4,10 @@ import { Home } from 'pages'
 import { HOME } from 'routes'
 import { GlobalStyle } from 'ui'
 
+import 'swiper/css'
+import 'swiper/css/pagination'
+import 'swiper/css/navigation'
+
 function App() {
   return (
     <BrowserRouter>

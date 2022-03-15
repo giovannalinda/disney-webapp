@@ -40,13 +40,12 @@
     {
       "title": "Curtas",
       "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
+        { "title": "Bao", "thumbnail": "http://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2DAC6AADDB0878559D0B87D4F87227B398AC967A23CE8AB3B8FAFD82B8032572/scale?width=1200&aspectRatio=1.78&format=jpeg#width=1200&height=675" },
+        { "title": "O banquete", "thumbnail": "http://2.bp.blogspot.com/-ssgWxkvPV5s/VN1zUuAXAII/AAAAAAAAHs8/v3cmjxP_nY4/s1600/feast-film-graphic.png" },
+        { "title": "Tia Edna", "thumbnail": "https://pbs.twimg.com/media/En1j9hWWEAUBQbg?format=jpg&name=large" },
+        { "title": "Purl", "thumbnail": "https://is4-ssl.mzstatic.com/image/thumb/KgY1pVU0tzDEacQjxJ52Fw/1200x675.jpg" },
+        { "title": "O avião de papel", "thumbnail": "https://upload.wikimedia.org/wikipedia/it/9/9d/Paperman.png" },
+        { "title": "Curtas animados zen", "thumbnail": "http://disneyplusbrasil.com.br/wp-content/uploads/2020/11/Curtas-Animados-Zen-Capa.png" }
       ]
     }
   ]
