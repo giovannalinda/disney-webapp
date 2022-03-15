@@ -3,73 +3,49 @@
     {
       "title": "Novidades no Disney+",
       "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
         { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
+        { "title": "Thor Ragnarok", "thumbnail": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/08/Thor-ragnarok.jpg" },
+        { "title": "Encanto", "thumbnail": "https://entretetizei.com.br/site/wp-content/uploads/2021/11/encanto-3.jpg" },
         { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
         { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
+        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
+        { "title": "Garfield 2", "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6603/666603-h" }
       ]
     },
     {
       "title": "Originais",
       "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
+        { "title": "What if", "thumbnail": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/10/What-If-Disney-Plus.jpg" },
+        { "title": "Loki", "thumbnail": "https://depor.com/resizer/Oh3Yrb0DDYw6X-oTFo5Q1Vy3myE=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/35F433RPO5ATHA5PTL4X2HANRM.jpg" },
+        { "title": "Luca", "thumbnail": "https://www.mymcmurray.com/wp-content/blogs.dir/sites/11/2021/06/luca.jpg" },
+        { "title": "Olaf apresenta", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/10/Olaf-Apresenta-pagina-Disney-Plus-1024x576.jpg" },
+        { "title": "A vida de dug", "thumbnail": "http://www.checklistdagaia.com.br/wp-content/uploads/2021/10/A-Vida-de-Dug-DisneyPlus.jpg" },
+        { "title": "Soul", "thumbnail": "https://entretetizei.com.br/site/wp-content/uploads/2021/01/Soul.png" },
+        { "title": "Monstros no trabalho", "thumbnail": "https://teoriageek.com.br/wp-content/uploads/2021/09/Monstros-no-Trabalho.jpg" }
+
       ]
     },
     {
       "title": "Filmes de animação",
       "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
+        { "title": "Big Hero", "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/44/a2/a9/44a2a95d-e589-b37b-c0b0-6bdcc78e5b6b/DIS_BIG_HERO_6_REVISED_WW_ARTWORK_EN_3840x2160_1NRO0J000002Z2.lsr/1200x675.jpg" },
         { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
+        { "title": "Zootopia", "thumbnail": "https://thedisinsider.com/wp-content/uploads/2021/03/scale-5.jpeg" },
+        { "title": "Rio 2", "thumbnail": "https://images3.alphacoders.com/618/618131.jpg" },
+        { "title": "Moana", "thumbnail": "https://poltronanerd.com.br/wp-content/uploads/2016/12/moana-fallback_fde4d101.jpeg" },
         { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
-      ]
-    },
-    {
-      "title": "Indicados ao Oscar",
-      "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
+        { "title": "Wifi Ralph", "thumbnail": "https://www.depoisdasessao.com.br/wp-content/uploads/2019/01/WiFi-Ralph-capa.jpg" }
       ]
     },
     {
       "title": "Curtas",
       "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
-      ]
-    },
-    {
-      "title": "Ação e aventura",
-      "movies": [
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" },
-        { "title": "Dois irmãos: uma jornada fantástica", "thumbnail": "https://1.bp.blogspot.com/-0_kLB8ckMzk/X7kpd5FCeLI/AAAAAAAAVUM/9IucngnP82Q2mQCmgkI8TZrp-JttETTUwCLcBGAsYHQ/s1200/scale.jpeg" },
-        { "title": "Red: crescer é uma fera", "thumbnail": "https://disneyplusbrasil.com.br/wp-content/uploads/2022/02/Red-Crescer-e-Uma-Fera-Disney-Plus.jpg" },
-        { "title": "Frozen 2", "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/frozen2_las_1920x1080_499ddce3.png" },
-        { "title": "Raya e o último dragão", "thumbnail": "https://sociedadedospsicologos.files.wordpress.com/2021/05/poster-disney.jpg" }
+        { "title": "Bao", "thumbnail": "http://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2DAC6AADDB0878559D0B87D4F87227B398AC967A23CE8AB3B8FAFD82B8032572/scale?width=1200&aspectRatio=1.78&format=jpeg#width=1200&height=675" },
+        { "title": "O banquete", "thumbnail": "http://2.bp.blogspot.com/-ssgWxkvPV5s/VN1zUuAXAII/AAAAAAAAHs8/v3cmjxP_nY4/s1600/feast-film-graphic.png" },
+        { "title": "Tia Edna", "thumbnail": "https://pbs.twimg.com/media/En1j9hWWEAUBQbg?format=jpg&name=large" },
+        { "title": "Purl", "thumbnail": "https://is4-ssl.mzstatic.com/image/thumb/KgY1pVU0tzDEacQjxJ52Fw/1200x675.jpg" },
+        { "title": "O avião de papel", "thumbnail": "https://upload.wikimedia.org/wikipedia/it/9/9d/Paperman.png" },
+        { "title": "Curtas animados zen", "thumbnail": "http://disneyplusbrasil.com.br/wp-content/uploads/2020/11/Curtas-Animados-Zen-Capa.png" }
       ]
     }
   ]

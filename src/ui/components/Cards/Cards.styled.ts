@@ -11,7 +11,7 @@ export const Content = styled.div`
   background: linear-gradient(#31343e, #1a1d29);
   width: 238px;
   height: 134px;
-  border-radius: 5px;
+  border-radius: 10px;
   margin: 30px 17px 0 0;
   border: 3px solid ${theme.colors.gray[400]};
   transition: 0.5s;
