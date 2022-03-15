@@ -8,7 +8,7 @@
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
-- [Swiper](https://swiperjs.com)
+- [Swiper](https://swiperjs.com/react)
 
 ## Getting Started
 ### Install dependencies:
