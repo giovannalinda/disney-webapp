@@ -1,4 +1,4 @@
-<img width="1436" alt="Captura de Tela 2022-03-15 às 00 49 55" src="https://user-images.githubusercontent.com/71105672/158302625-8e2a9f7e-e463-4d7a-9b07-20f73d5553fc.png">
+<img width="1440" alt="Captura de Tela 2022-03-16 às 14 59 00" src="https://user-images.githubusercontent.com/71105672/158656665-a126924f-c2cd-4290-95ee-dfcefe612bad.png">
 
 
 ## What is inside?
@@ -12,6 +12,7 @@
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 - [Swiper](https://swiperjs.com/react)
+- [JSON Server](https://www.npmjs.com/package/json-server)
 
 ## Getting Started
 ### Install dependencies:
