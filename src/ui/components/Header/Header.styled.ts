@@ -15,8 +15,8 @@ export const Header = styled.header`
   }
 
   img {
-    width: 150px;
-    height: 80px;
+    width: 120px;
+    height: 70px;
   }
 `
 
@@ -27,18 +27,13 @@ export const List = styled.ul`
 
   svg {
     @media (max-width: 920px) {
-      margin: 0 10px 0 0px;
+      margin: 0 10px 0 10px;
     }
   }
-
   svg,
   a,
   li {
     cursor: pointer;
-    transition: 0.5s;
-    :hover {
-      color: ${theme.colors.gray[400]};
-    }
   }
 
   li {
@@ -51,8 +46,19 @@ export const List = styled.ul`
 
     a {
       margin: 0 auto;
-      color: ${theme.colors.white};
+      color: ${({ theme }) => theme.textColor};
       font-size: 16px;
+    }
+  }
+
+  button {
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    margin-left: 90px;
+
+    svg {
+      color: ${theme.colors.yellow[300]};
     }
   }
 `

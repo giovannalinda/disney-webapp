@@ -1,11 +1,16 @@
 import { Link } from 'react-router-dom'
 
 import { AiFillHome, AiFillStar } from 'react-icons/ai'
-import { RiMovie2Fill, RiTvFill } from 'react-icons/ri'
+import {
+  RiMoonClearFill,
+  RiMovie2Fill,
+  RiSunFill,
+  RiTvFill,
+} from 'react-icons/ri'
 import { BiSearchAlt2 } from 'react-icons/bi'
 import { FiPlus } from 'react-icons/fi'
 
-import { logo } from 'assets'
+import { logo, logoDark } from 'assets'
 
 import { useTheme } from 'context/ThemeContext'
 
@@ -18,7 +23,18 @@ export function Header() {
     <S.Header>
       <nav>
         <S.List>
-          <img src={logo} alt='logo disney' />
+          {theme === 'light' ? (
+            <img
+              src={logoDark}
+              alt='logo escrito Disney+ em azul escuro com uma linha em cima que contém um gradiente que vai do azul claro até o escuro'
+            />
+          ) : (
+            <img
+              src={logo}
+              alt='logo escrito Disney+ em branco com uma linha em cima que contém um gradiente que vai do azul escuro até o claro'
+            />
+          )}
+
           <AiFillHome size={20} />
           <li>
             <Link to='/'>INÍCIO</Link>
@@ -43,15 +59,12 @@ export function Header() {
           <li>
             <Link to='/'>SÉRIES</Link>
           </li>
-          <button
-            type='button'
-            onClick={toggleTheme}
-            style={{
-              color: theme === 'dark' ? '#fff' : '#000',
-              background: theme === 'dark' ? '#000' : '#fff',
-            }}
-          >
-            ☀️
+          <button type='button' onClick={toggleTheme}>
+            {theme === 'light' ? (
+              <RiMoonClearFill size={20} />
+            ) : (
+              <RiSunFill size={20} />
+            )}
           </button>
         </S.List>
       </nav>

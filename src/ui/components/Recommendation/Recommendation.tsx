@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide } from 'swiper/react'
 
 import { Pagination, Navigation } from 'swiper'
-import { cruella, dug, raya, red, ron } from 'assets'
+import { cruella, dug, luca, raya, red, ron } from 'assets'
 
 import * as S from './Recommendation.styled'
 
@@ -20,6 +20,9 @@ export function Recommendation() {
       >
         <SwiperSlide>
           <img src={red} alt='red: crescer é uma fera' />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={luca} alt='luca' />
         </SwiperSlide>
         <SwiperSlide>
           <img src={ron} alt='ron bugado' />

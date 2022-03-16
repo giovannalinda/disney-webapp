@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
     background: ${(props) => props.theme.backgroundColor};
     font-family: ${theme.font.family};
     overflow-x: hidden;
-    color: ${theme.colors.neutral[100]};
+    color: ${(props) => props.theme.textColor};
   }
 
   button {

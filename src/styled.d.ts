@@ -5,5 +5,7 @@ declare module 'styled-components' {
     backgroundColor: string
     textColor: string
     headerBackgroundColor: string
+    hover: string
+    scroll: string
   }
 }
