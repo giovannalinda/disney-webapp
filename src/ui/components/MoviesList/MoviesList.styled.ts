@@ -1,4 +1,3 @@
-import { theme } from 'config'
 import styled from 'styled-components'
 
 export const CategoryItem = styled.li`
@@ -11,12 +10,8 @@ export const CategoryItem = styled.li`
     margin: 9px 0 0 -50px;
   }
 
-  & + li {
-    margin-top: 34px;
-  }
-
   h3 {
-    color: ${theme.colors.white};
+    color: ${({ theme }) => theme.textColor};
     margin-left: 4rem;
     margin-top: 10px;
   }
@@ -37,7 +32,7 @@ export const MoviesList = styled.div`
   }
 
   ::-webkit-scrollbar-thumb {
-    background: ${theme.colors.gray[500]};
+    background: ${({ theme }) => theme.scroll};
   }
 `
 
@@ -50,7 +45,7 @@ export const MovieItem = styled.button`
 
   &:hover {
     transform: translateY(-5px);
-    border-color: ${theme.colors.white};
+    border-color: ${({ theme }) => theme.hover};
   }
 
   &:active {

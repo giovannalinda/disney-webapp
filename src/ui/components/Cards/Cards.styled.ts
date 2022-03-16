@@ -1,5 +1,5 @@
-import { theme } from 'config'
 import styled from 'styled-components'
+import { theme } from 'config'
 
 export const Container = styled.div`
   display: flex;
@@ -15,7 +15,10 @@ export const Content = styled.div`
   margin: 30px 17px 0 0;
   border: 3px solid ${theme.colors.gray[400]};
   transition: 0.5s;
-  box-shadow: 0 5px 10px black;
+
+  :hover {
+    cursor: pointer;
+  }
 
   img {
     margin: 15px 0 0 18px;

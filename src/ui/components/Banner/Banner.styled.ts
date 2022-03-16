@@ -26,6 +26,7 @@ export const Content = styled.div`
   p {
     font-size: 20px;
     margin: 0 0 20px 0;
+    color: ${theme.colors.white};
   }
 
   span {

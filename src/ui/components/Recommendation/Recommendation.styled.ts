@@ -22,7 +22,7 @@ export const Container = styled.div`
     }
 
     :hover {
-      border: 2px solid ${theme.colors.white};
+      border: 2px solid ${({ theme }) => theme.hover};
     }
   }
 `
