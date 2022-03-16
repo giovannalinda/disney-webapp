@@ -10,7 +10,7 @@ export const Header = styled.header`
   top: 0;
 
   nav {
-    background: ${theme.colors.gray[700]};
+    background: ${({ theme }) => theme.headerBackgroundColor};
     box-shadow: 0 0.1px 0.5px ${theme.colors.gray[700]};
   }
 

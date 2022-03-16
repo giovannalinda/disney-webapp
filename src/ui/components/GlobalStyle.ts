@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: ${theme.colors.gray[600]};
+    background: ${(props) => props.theme.backgroundColor};
     font-family: ${theme.font.family};
     overflow-x: hidden;
     color: ${theme.colors.neutral[100]};
