@@ -13,20 +13,28 @@ type ThemeContextProps = {
   toggleTheme: () => void
 }
 
+type ThemeType = 'dark' | 'light'
+
 export const ThemeContext = createContext<ThemeContextProps>({
   theme: 'dark',
   toggleTheme: () => {},
 })
 
 export function ThemeProvider({ children }: Props) {
-  const [name, setName] = useState<'dark' | 'light'>('dark')
+  const [name, setName] = useState<ThemeType>(
+    (localStorage.getItem('theme') as ThemeType) ?? 'dark',
+  )
 
   const theme = themes[name]
 
   function handleToggleTheme() {
-    setName((prevState) => (prevState === 'dark' ? 'light' : 'dark'))
-  }
+    setName((prevState) => {
+      const newName = prevState === 'dark' ? 'light' : 'dark'
+      localStorage.setItem('theme', newName)
 
+      return newName
+    })
+  }
   return (
     <StyledThemeProvider theme={theme}>
       <ThemeContext.Provider
